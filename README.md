@@ -1,39 +1,36 @@
 # Fahim Hussain 💻
 
-Welcome to my personal developer portfolio. I am a **Full-Stack Developer, Cybersecurity Enthusiast, and AI/ML Practitioner** with hands-on experience in web development, penetration testing, and software engineering.
+Welcome to my developer portfolio. I am a **Full-Stack Developer, Cybersecurity Specialist, and AI/ML Practitioner** with hands-on experience in web development, penetration testing, and machine learning projects.  
 
 ---
 
-## 🧰 Skills
+## 🧰 Core Skills
 
-### Programming & Frameworks
-- **Languages:** Python, C++, TypeScript, SQL, HTML, CSS  
-- **Frameworks & Libraries:** React, Next.js, Node.js, Three.js, OpenGL (C++)  
-
-### Cybersecurity
-- Web application penetration testing  
-- Vulnerability research and bug bounty participation  
-- API security analysis  
+### Cybersecurity & Penetration Testing
+- Conduct **web application penetration testing** for real-world companies  
+- Identify vulnerabilities in APIs, databases, and client-server architectures  
+- Collaborate with technical teams to secure infrastructure and implement fixes  
+- Participate in **bug bounty programs and VDPs**, staying up-to-date with the latest security threats  
+- Strong knowledge of **ethical hacking, vulnerability research, and secure coding practices**
 
 ### AI / Machine Learning
-- Machine learning models and predictive algorithms  
-- LSTM for time-series prediction  
-- Data analysis and optimization techniques  
+- Build predictive models using **Python** and **LSTM neural networks**  
+- Analyze financial data and technical indicators for short-term stock prediction  
+- Optimize training algorithms for **fast backpropagation and accurate predictions**  
+- Achieved ~70% accuracy on real-time stock data using AI-driven methods  
+- Apply **data analysis, optimization, and machine learning techniques** to solve complex real-world problems  
 
-### Software Engineering
-- Full-stack web development (front-end & back-end)  
-- Scalable e-commerce application design  
-- Real-time 3D graphics and game engine programming  
+### Software Engineering & Development
+- Full-stack web development with **Python, C++, TypeScript, React, Node.js, Next.js**  
+- Build scalable e-commerce websites and custom web applications  
+- Design **real-time 3D graphics engines and games** using raycasting and OpenGL  
+- Strong problem-solving and optimization skills for both front-end and back-end systems  
 
-### Finance & Tech Exploration
-- Market analysis and investment strategies  
-- Fintech innovations including blockchain and machine learning  
-
-### Tools & Other Skills
-- CAD, 3D printing, welding, and machining (engineering applications)  
-- Problem-solving, critical thinking, and collaborative teamwork  
-- Communication and presentation to technical and non-technical audiences  
+### Other Technical Skills
+- Programming: Python, C++, TypeScript, SQL, HTML, CSS  
+- 3D engineering applications: CAD, 3D printing, welding, machining  
+- Finance & fintech: market analysis, blockchain, AI-driven financial tools  
 
 ---
 
-Focused on building practical solutions that combine **software development, cybersecurity, AI, and real-world problem-solving**.
+Focused on creating **secure, intelligent, and high-performance solutions** that combine web development, AI, and cybersecurity. Passionate about learning and applying advanced techniques to real-world challenges.
