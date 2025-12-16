@@ -1,10 +1,10 @@
-# Fahim Hussain 💻
+# Fahim Hussain 
 
 Welcome to my developer portfolio. I am a **Full-Stack Developer, Cybersecurity Specialist, and AI/ML Practitioner** with hands-on experience in web development, penetration testing, and machine learning projects.  
 
 ---
 
-## 🧰 Core Skills
+## Core Skills
 
 ### Cybersecurity & Penetration Testing
 - Conduct **web application penetration testing** for real-world companies  
